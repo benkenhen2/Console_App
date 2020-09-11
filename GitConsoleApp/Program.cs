@@ -1,4 +1,12 @@
-﻿using System;
+﻿/*  Program: GitConsoleApp.cs
+ *  
+ *  Description: First time using Visual Studio
+ *  
+ *  Revision History:
+ *      created Sept 11, 2020 by B. Hengeveld
+ */
+
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
