@@ -10,7 +10,9 @@ namespace GitConsoleApp
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World");
+            Console.Write("What should I say: ");
+            String userInput = Console.ReadLine();
+            Console.WriteLine("Console: " + userInput);
         }
     }
 }
